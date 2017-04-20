@@ -29,6 +29,7 @@
 		<ascanrule>org.zaproxy.zap.extension.ascanrulesAlpha.SourceCodeDisclosureGit</ascanrule>
 		<ascanrule>org.zaproxy.zap.extension.ascanrulesAlpha.SQLInjectionMsSQL</ascanrule>
 		<ascanrule>org.zaproxy.zap.extension.ascanrulesAlpha.SQLInjectionSQLite</ascanrule>
+		<ascanrule>org.zaproxy.zap.extension.ascanrulesAlpha.TestServerSideTemplateInjection</ascanrule>
 		<ascanrule>org.zaproxy.zap.extension.ascanrulesAlpha.TestUserAgent</ascanrule>
 	</ascanrules>
 	<pscanrules/>
